@@ -7,9 +7,9 @@ The data were generated using:
 
 > **Wu, Yu-Heng, and Torbjörn E. M. Nordling (2025)**  
 > *CovSyn: an agent-based model for synthesizing COVID-19 course of disease and contact tracing data.*  
-> medRxiv, 2025-05  
-> https://github.com/nordlinglab/COVID19-CovSyn.git
-
+> *medRxiv*, 2025-05.  
+> DOI: [https://doi.org/10.1101/2025.05.17.25327820](https://doi.org/10.1101/2025.05.17.25327820)  
+> Code: [https://github.com/nordlinglab/COVID19-CovSyn](https://github.com/nordlinglab/COVID19-CovSyn)
 ---
 
 ## 📌 Dataset Description
